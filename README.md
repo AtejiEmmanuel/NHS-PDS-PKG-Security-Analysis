@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains the dissertation report for an MSc in Cyber Security submitted to Sheffield Hallam University in September 2024. The research critically evaluates the **security implications of integrating the Parkinson's KinetiGraph (PKG) wearable device with the NHS Spine's Personal Demographics Service (PDS)**, a highly relevant case study at the intersection of healthcare wearable technology and national health IT infrastructure security.
+This repository contains the dissertation [report](https://github.com/AtejiEmmanuel/NHS-PDS-PKG-Security-Analysis/blob/main/PKG-NHS-Spine-Security-Dissertation.pdf) for an MSc in Cyber Security submitted to Sheffield Hallam University in September 2024. The research critically evaluates the **security implications of integrating the Parkinson's KinetiGraph (PKG) wearable device with the NHS Spine's Personal Demographics Service (PDS)**, a highly relevant case study at the intersection of healthcare wearable technology and national health IT infrastructure security.
 
 ---
 
