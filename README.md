@@ -99,7 +99,7 @@ A prioritised, phased set of security recommendations including:
 ```
 /
 ├── README.md                        ← This file
-└── 33043543_Emmanuel_Dissertation_2024.docx   ← Full dissertation report
+└── PKG-NHS-Spine-Security-Dissertation.PDF   ← [Full dissertation report](https://github.com/AtejiEmmanuel/NHS-PDS-PKG-Security-Analysis/blob/main/PKG-NHS-Spine-Security-Dissertation.pdf)
 ```
 
 ---
